@@ -46,3 +46,18 @@ To run the Flask web application, use the following command:
 By default, the application will be accessible at http://127.0.0.1:5000/.
 
 Click on the link to run it on your local machine.
+
+
+
+##Some snapshots of the project
+
+![index](https://github.com/user-attachments/assets/e2fa6cd1-6bed-45a7-bfdb-99612a8c1296)
+
+
+![Index2](https://github.com/user-attachments/assets/946811c7-4be8-4df3-96bb-141f9e140a0e)
+
+
+![result](https://github.com/user-attachments/assets/d8677d08-88c9-42f7-b4d1-60d54e25f774)
+
+
+
