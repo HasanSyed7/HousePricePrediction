@@ -10,12 +10,12 @@ This is a Flask web application that predicts house prices based on input featur
 
 
 ## Steps followed to build this project:
-1.)Collected Housing datast from kaggle.
-2.)Some preprocessing and dimension reduction of the dataset, which included only relevant features.
-3.)Built the model using simple Linear Regression and saved it under model as .pkl 
-4.)Setup the flask application to process on the user inputs from frontend. Also Load
-5.)Prepare the input as np array to send it as input to the trained model
-6.)Make the predction and return it as output to the user.
+1.Collected Housing datast from kaggle.
+2.Some preprocessing and dimension reduction of the dataset, which included only relevant features.
+3.Built the model using simple Linear Regression and saved it under model as .pkl 
+4.Setup the flask application to process on the user inputs from frontend. Also Load
+5.Prepare the input as np array to send it as input to the trained model
+6.Make the predction and return it as output to the user.
 
 
 
