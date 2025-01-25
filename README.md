@@ -1,4 +1,4 @@
-
+( Refer to the master branch as I have commited all the files there)
 # House Price Prediction Web Application
 
 This is a Flask web application that predicts house prices based on input features such as the number of bedrooms, bathrooms, area (in square feet), and the location that whether the house is located on a main road. The application uses a simple machine learning model to make predictions based on user input.
